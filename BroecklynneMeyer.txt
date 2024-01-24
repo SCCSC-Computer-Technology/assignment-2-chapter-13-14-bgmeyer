@@ -1,0 +1,8 @@
+Broecklynne Meyer
+
+I was not able to get the code to run, it was giving the error that there was a file missing, so I believe it is on my end. Regardless, I liked the fact that you included tooltips, and the set-up of your form. Remember to name the form, and to set tab order (I forgot those too, but also not entirely sure about tab order because I couldn't get it to run).
+
+After looking at the code, I believe that a second form is supposed to pop up for the results, love that you included that. I do recommend a way to clear the redundancy of after each button click, I can see you're making sure that other buttons/text boxes are clear before the correct one is selected. There's nothing wrong with it, but I would try a try/catch instead. I loved how clean your comments were!!
+
+
+
