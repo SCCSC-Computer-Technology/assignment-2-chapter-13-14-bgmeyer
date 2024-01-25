@@ -1,0 +1,8 @@
+Code Review for bgmeyer
+
+
+Overall the author took a different approach to the GUI that I did, but I think the author did a great job at keeping the interface clean and easy to use for users. Using radio buttons for user selection will make sure that the user is selecting the correct choice they intended.
+
+The author took detail in commenting the code and the code itself is clean which I find helpful as I am doing the code review. In the searchButton click event I see that the author used several if and else-if statement for flow control, I think that the code could be cleaner if this flow control had been written in a switch.
+
+The author took into account the visiblity of buttons to keep users from throwing exceptions and I think this was good planning on their part. Overall the logic in this code along with the GUI is well done and has no errors.
