@@ -1,0 +1,12 @@
+C:\Users\jcc80\source\repos\BroecklynneMeyer-CPT-206-Assignment-2\bin\Debug\ProductDB.mdf
+C:\Users\jcc80\source\repos\BroecklynneMeyer-CPT-206-Assignment-2\bin\Debug\ProductDB_log.ldf
+C:\Users\jcc80\source\repos\BroecklynneMeyer-CPT-206-Assignment-2\bin\Debug\BroecklynneMeyer-CPT-206-Assignment-2.exe.config
+C:\Users\jcc80\source\repos\BroecklynneMeyer-CPT-206-Assignment-2\bin\Debug\BroecklynneMeyer-CPT-206-Assignment-2.exe
+C:\Users\jcc80\source\repos\BroecklynneMeyer-CPT-206-Assignment-2\bin\Debug\BroecklynneMeyer-CPT-206-Assignment-2.pdb
+C:\Users\jcc80\source\repos\BroecklynneMeyer-CPT-206-Assignment-2\obj\Debug\BroecklynneMeyer-CPT-206-Assignment-2.csproj.AssemblyReference.cache
+C:\Users\jcc80\source\repos\BroecklynneMeyer-CPT-206-Assignment-2\obj\Debug\BroecklynneMeyer_CPT_206_Assignment_2.Form1.resources
+C:\Users\jcc80\source\repos\BroecklynneMeyer-CPT-206-Assignment-2\obj\Debug\BroecklynneMeyer_CPT_206_Assignment_2.Properties.Resources.resources
+C:\Users\jcc80\source\repos\BroecklynneMeyer-CPT-206-Assignment-2\obj\Debug\BroecklynneMeyer-CPT-206-Assignment-2.csproj.GenerateResource.cache
+C:\Users\jcc80\source\repos\BroecklynneMeyer-CPT-206-Assignment-2\obj\Debug\BroecklynneMeyer-CPT-206-Assignment-2.csproj.CoreCompileInputs.cache
+C:\Users\jcc80\source\repos\BroecklynneMeyer-CPT-206-Assignment-2\obj\Debug\BroecklynneMeyer-CPT-206-Assignment-2.exe
+C:\Users\jcc80\source\repos\BroecklynneMeyer-CPT-206-Assignment-2\obj\Debug\BroecklynneMeyer-CPT-206-Assignment-2.pdb
